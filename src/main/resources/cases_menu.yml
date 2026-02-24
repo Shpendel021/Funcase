@@ -1,0 +1,26 @@
+name: '&#5986CC            ₍☁ &8Кейсы &#5986CC☁₎'
+size: 45
+slots:
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+decor:
+  1:
+    name: '&f '
+    lore: []
+    material: BLUE_STAINED_GLASS_PANE
+    amount: 1
+    slots:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
