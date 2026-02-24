@@ -1,0 +1,17 @@
+name: LoneyCase
+version: 1.0.0
+main: by.shpendel.loneycase.LoneyCasePlugin
+api-version: 1.16
+authors: [shpendel]
+softdepend: [DecentHolograms, Multiverse-Core]
+commands:
+  case:
+    usage: /case
+    description: case admin and player command
+    permission: loneycase.admin
+  loneycase:
+    usage: /loneycase
+    description: alias
+permissions:
+  loneycase.admin:
+    default: op

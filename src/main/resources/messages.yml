@@ -1,0 +1,6 @@
+messages:
+  permissions_denied:
+    - '&cНет прав'
+  number_error: '&cКоличество должно быть числом'
+  reload_saving: '&aКонфигурация успешно перезагружена.'
+  already-open: '&cИгрок уже открывает кейс...'

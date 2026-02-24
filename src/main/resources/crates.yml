@@ -1,0 +1,28 @@
+crates:
+  donate:
+    name: '&#5986CC[☁]&f Донат-кейс'
+    item_name: '&#5986CC[☁]&f Донат-кейс'
+    item_lore:
+      - '&#5986CC➥ &fНажми, чтобы открыть'
+      - '&6Был получен:&f {give_time} назад'
+      - '&6Закончится через:&f {end_time}'
+    skull_name: ''
+    prizes:
+      lite_30d:
+        displayName: '&#80A1D6[Лайтер]&7 30д.'
+        displayItem: TOTEM_OF_UNDYING
+        texture: ''
+        enchanted: true
+        rate: 3
+        commands:
+          - 'lp user {player} parent clear'
+          - 'lp user {player} parent addtemp лайтер 30d'
+      elite_30d:
+        displayName: '&#FC2B2B[Элита]&7 30д.'
+        displayItem: TOTEM_OF_UNDYING
+        texture: ''
+        enchanted: true
+        rate: 9
+        commands:
+          - 'lp user {player} parent clear'
+          - 'lp user {player} parent addtemp элита 30d'

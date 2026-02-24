@@ -1,0 +1,23 @@
+wait_select_prize_time: 25
+checker_delay: 120
+save_time: 72800
+hologram:
+  view_distance: 100
+  up_y: 0.8
+  lines:
+    - '&x&5&9&8&6&C&C✿ &x&7&3&A&1&D&DК&x&8&C&B&C&E&Eе&x&A&6&D&7&F&Fй&x&8&C&B&C&E&Eс&x&7&3&A&1&D&Dы &x&5&9&8&6&C&C✿'
+    - '&7Нажмите&f, чтобы открыть'
+    - '{color}У вас {amount} ключей'
+colors:
+  - "&#A6D7FF"
+  - "&#7FAFFF"
+  - "&#7999E0"
+  - "&#94C2FF"
+case_locs:
+  - 'spawn;137;120;6'
+mysql:
+  host: "localhost"
+  port: 3306
+  database: "loneycase"
+  username: "root"
+  password: "password"
